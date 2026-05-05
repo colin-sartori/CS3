@@ -1,4 +1,4 @@
-# CS3 — IMDb Review Sentiment by Genre
+# CS3 — Trump Tariff Announcements and S&P500
 
 ## Repository purpose
 This repository contains all materials needed to complete a Case Study to determine how Trump's social media posts about tariffs affect the S&P500. It is designed so a student can quickly locate the documents, download the required data, run the notebook, and reproduce the main results.
